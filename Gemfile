@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+
+gem 'capybara'
+gem 'cucumber'
+gem 'pry'
+gem 'rake'
+gem 'rb-readline'
+gem 'rspec'
+gem 'rspec-expectations'
+gem 'selenium-webdriver'
